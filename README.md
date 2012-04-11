@@ -1,4 +1,4 @@
-# PerfumeMotionVisualizationExample #
+# Perfume Motion Visualization Example Project #
 Motion visualization for [Perfume global site](http://perfume-global.com/ "Perfume global site") ver [openFrameWorks](http://www.openframeworks.cc/ "openFrameWorks").
 
 many thanks for oF and contributed addons.
